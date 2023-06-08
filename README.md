@@ -1,5 +1,5 @@
 # Transport-Demand-Prediction
-In this project I have build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time. There are 14 routes in this datasetand all of the routes end in Nairobi and originate in towns to the North-West of Nairobi towards Lake Victoria.
+In this project, I have build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time. There are 14 routes in this dataset and all of the routes end in Nairobi and originated in towns to the North-West of Nairobi towards Lake Victoria.
 
 ## <b> Data Description </b>
 
@@ -30,4 +30,4 @@ Steps:
 
 ### **Conclusion**
 
-**We used diffent type of regression algorithms to train our model like, Linear Regression, Regularized linear regression (Ridge and Lasso), GBM,Random Forest Regressor, XGboost regresssor. and Also we tuned the parameters of Random forest regressor and XGboost regressor and also found the important features for training the model. Out of them XGboost with tuned hyperparameters gave the best result.**
+**We used different type of regression algorithms to train our model like, Linear Regression, Regularized linear regression (Ridge and Lasso), Random Forest Regressor, XGboost regresssor. and Also we tuned the parameters of Random forest regressor and XGboost regressor and also found the important features for training the model. Out of them XGboost with tuned hyperparameters gave the best result.**
